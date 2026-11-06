@@ -1,0 +1,6 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1793983636.883733   20837 cpu_feature_guard.cc:227] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Python: 3.12.16 (main, Oct 29 2026, 22:27:25) [GCC 16.2.1 20260810]
+TensorFlow: 2.21.0-dev0+selfbuilt
+GPU disponible: [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]

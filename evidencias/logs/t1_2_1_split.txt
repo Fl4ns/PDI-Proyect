@@ -1,0 +1,3 @@
+train: 76277 imágenes, 24647 pacientes
+val: 10247 imágenes, 3361 pacientes
+test: 25596 imágenes, 2797 pacientes

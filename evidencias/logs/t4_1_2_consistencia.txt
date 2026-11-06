@@ -1,0 +1,7 @@
+=== Consistencia DICOM vs PNG ===
+Forma PNG:        (128, 128)
+Forma DICOM:      (128, 128)
+Diferencia máxima: 0
+Idénticos:         True
+
+Conclusión: DICOM y PNG producen el mismo array de 8 bits.

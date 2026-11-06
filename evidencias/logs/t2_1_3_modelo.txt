@@ -1,0 +1,7 @@
+=== Contenido de models/ ===
+total 29M
+-rw-r--r-- 1 mikado mikado 249 nov  4 20:40 log_etapa1.csv
+-rw-r--r-- 1 mikado mikado 29M nov  4 20:40 modelo_base.keras
+
+=== Modelo base ===
+modelo_base.keras existe

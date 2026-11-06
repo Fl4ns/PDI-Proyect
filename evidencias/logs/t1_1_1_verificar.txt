@@ -1,0 +1,25 @@
+CSV: /home/mikado/Proyecto PDI/Dataset/Data_Entry_2017.csv
+Filas leídas: 112120
+Pacientes únicos: 30805
+
+Total imágenes: 112120 (esperado 112120) -> OK
+
+Etiqueta                   Actual   Esperado   Estado
+-------------------------------------------------------
+No Finding                  60361      60361       OK
+Atelectasis                 11559      11559       OK
+Consolidation                4667       4667       OK
+Infiltration                19894      19894       OK
+Pneumothorax                 5302       5302       OK
+Edema                        2303       2303       OK
+Emphysema                    2516       2516       OK
+Fibrosis                     1686       1686       OK
+Effusion                    13317      13317       OK
+Pneumonia                    1431       1431       OK
+Pleural_Thickening           3385       3385       OK
+Cardiomegaly                 2776       2776       OK
+Nodule                       6331       6331       OK
+Mass                         5782       5782       OK
+Hernia                        227        227       OK
+
+Conteos coinciden con el dataset completo.

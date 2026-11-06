@@ -1,0 +1,3 @@
+Image Index,Patient ID,Patient Age,Patient Gender,View Position,Finding Labels,Atelectasis,Consolidation,Infiltration,Pneumothorax,Edema,Emphysema,Fibrosis,Effusion,Pneumonia,Pleural_Thickening,Cardiomegaly,Nodule,Mass,Hernia
+00000003_000.png,3,81,F,PA,Hernia,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+00000003_001.png,3,74,F,PA,Hernia,0,0,0,0,0,0,0,0,0,0,0,0,0,1

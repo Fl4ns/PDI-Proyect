@@ -1,0 +1,22 @@
+..........................                                               [100%]
+============================================================
+11_reporte_tests.py
+============================================================
+Tests encontrados: 8 archivos
+  - test_verify.py
+  - test_split.py
+  - test_weights.py
+  - test_subset.py
+  - test_pre.py
+  - test_model.py
+  - test_dcm.py
+  - test_loc.py
+
+Ejecutando: /home/mikado/Proyecto PDI/.venv-rocm/bin/python -m pytest -q --junitxml=/home/mikado/Proyecto PDI/Entrega/resultados_pytest.xml -m not requires_model
+------------------------------------------------------------
+------------------------------------------------------------
+
+============================================================
+Total: 26 | OK: 26 | Fallaron: 0 | Omitidas: 0
+Reporte: /home/mikado/Proyecto PDI/Entrega/reportes/tests_sin_modelo.md
+============================================================
