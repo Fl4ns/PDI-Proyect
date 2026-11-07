@@ -1,0 +1,20 @@
+Train: 76277 imágenes
+
+Patología               Positivos   Frecuencia  Peso (raíz)
+------------------------------------------------------------
+Atelectasis                  7236        9.49%       3.0889
+Consolidation                2542        3.33%       5.3858
+Infiltration                12190       15.98%       2.2929
+Pneumothorax                 2337        3.06%       5.6248
+Edema                        1234        1.62%       7.7983
+Emphysema                    1295        1.70%       7.6093
+Fibrosis                     1084        1.42%       8.3286
+Effusion                     7638       10.01%       2.9977
+Pneumonia                     765        1.00%       9.9352
+Pleural_Thickening           1931        2.53%       6.2049
+Cardiomegaly                 1509        1.98%       7.0390
+Nodule                       4146        5.44%       4.1711
+Mass                         3554        4.66%       4.5235
+Hernia                        115        0.15%      25.7348
+
+Guardado en data/splits/class_weights.json

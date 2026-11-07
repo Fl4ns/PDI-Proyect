@@ -1,0 +1,1 @@
+# Marca tests/ como paquete. No requiere contenido.
